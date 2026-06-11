@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+warehouse.db*
+dataset/
+dataset_backup.zip
+SmartWarehouse/
+training_log.txt
+打包.rar
